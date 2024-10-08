@@ -12,7 +12,7 @@
     'use strict';
 
     // 実行する時間の範囲を設定（24時間形式）
-    const startHour = 14; // 実行開始時間 (例: 09:00)
+    const startHour = 6; // 実行開始時間 (例: 09:00)
     const endHour = 21;  // 実行終了時間 (例: 17:00)
 
     // ytd-rich-grid-rendererを非表示にする関数
