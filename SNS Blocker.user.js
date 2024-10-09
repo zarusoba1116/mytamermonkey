@@ -2,7 +2,7 @@
 // @name         SNS Blocker
 // @namespace    http://tampermonkey.net/
 // @version      0.6
-// @description  Confirm access to X with a custom button
+// @description  Confirm access to SNS with a custom button
 // @match        https://x.com/*
 // @match        https://www.youtube.com/*
 // @match        https://www.instagram.com/*
